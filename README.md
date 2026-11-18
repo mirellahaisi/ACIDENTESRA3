@@ -62,4 +62,3 @@ Confira a instalação do Java com `java -version`. Instalar PySpark com `pip` n
 
 O notebook incluído tem as células de código executadas e seus resultados preservados. Para reproduzir os cálculos ou gerar novamente as figuras e a simulação de streaming, forneça o CSV e execute todas as células em ordem. A execução original registra 584.010 linhas e 72.529 acidentes distintos, de 1º de janeiro a 31 de dezembro de 2025; resultados podem variar se a extração ou as versões das bibliotecas forem diferentes.
 
-As figuras do RA3 são salvas em `figuras_ra3/`. Os arquivos de entrada e checkpoint da simulação RA2 são criados em `ra2_streaming_acidentes/`. Esses itens são saídas locais e não precisam ser adicionados ao Git.
