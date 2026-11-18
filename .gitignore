@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+figuras_ra3/
+ra2_streaming_acidentes/
+acidentes2025_todas_causas_tipos.csv
